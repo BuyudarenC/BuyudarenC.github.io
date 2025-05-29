@@ -27,7 +27,7 @@ My long-term research interests include:
 * Deep Learning
 
 <div style="color: red;">
-    recent Work: Some research on Agents
+    Recent Work: Some research on Agents
 </div>
 
 <div style="color: red;">
