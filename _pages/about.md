@@ -27,7 +27,7 @@ My long-term research interests include:
 * Deep Learning
 
 <div style="color: red;">
-    Representative Work: Some research on Agents
+    recent Work: Some research on Agents
 </div>
 
 <div style="color: red;">
@@ -37,23 +37,23 @@ My long-term research interests include:
 
 
 # 📖 Educations
-- *2024.09 – Now*, Mphil,**Communication University of China**,  Cyberspace Security
+- *2024.09 – Now*, Master,**Communication University of China**,  Cyberspace Security.
 
 - *2020.09 – 2024.06*, Bachelor,**China University of Petroleum (Beijing)**,  Electronic Information Engineering.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🔍️I will be doing some work on mulit-agents
-- *2025.05*: &nbsp;🎉I participated in competitions related to artificial intelligence and information security
+- *2025.06*: &nbsp;🔍️I will be doing some work on Multi-Agents.
+- *2025.05*: &nbsp;🎉I participated in competitions related to artificial intelligence and information security.
   
 # 🔨 Project
-- *2024.12 – Present*  Network Topology Simulation and Attack Efficacy Evaluation System 
+- *2024.12 – Present*  **Network Topology Simulation and Attack Efficacy Evaluation System** 
   - Deployed local LLMs with prompt engineering to auto-generate network-topology code and documentation, then used CyberBattleSim and RL-driven LLM agents to simulate and evaluate attack strategies.
 
-- *2024.6 – 2024.12*  Network Resource Data Recognition and Generation System
+- *2024.6 – 2024.12*  **Network Resource Data Recognition and Generation System**
   - Led the collection and cleaning of 700K+ network-service records via FOFA/Shodan, fine-tuned BERT for asset identification, and built a ChatGLM-based RAG generator for automated metadata production.
 
-- *2024.3 – 2024.6*  Domestic and International Public Opinion Analysis Platform
+- *2024.3 – 2024.6*  **Domestic and International Public Opinion Analysis Platform**
   - Co-developed a distributed crawler for global social-media scraping, plus face-recognition and image-style modules to enrich multimodal sentiment analysis.
 
 # 📝 Publications 
