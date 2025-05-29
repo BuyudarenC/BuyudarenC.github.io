@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Changhao Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Large Language Model and Deep Learning"
 repository               : "BuyudarenC/Changhao-Zhao-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Changhao Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Communication University of China"
-  location         : "Beijing, China"
+  bio              : "To learn a little bit of everything."
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BuyudarenC"
   google_plus      :
   keybase          :
   instagram        :
