@@ -49,6 +49,8 @@ My long-term research interests include:
 
 DRIK: Distribution-Robust Inductive Kriging without Information Leakage
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNPD, 2024</div><img src='images/dsg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
