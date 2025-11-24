@@ -6,14 +6,16 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Publications"
+    url: "/#-publications"
+
   - title: "News"
     url: "/#-news"
 
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Publications"
-    url: "/#-publications"
+
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

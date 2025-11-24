@@ -42,21 +42,13 @@ My long-term research interests include:
 - *2020.09 – 2024.06*, Bachelor,**China University of Petroleum (Beijing)**,  Electronic Information Engineering.
 
 
-# 🔥 News
-- *2025.06*: &nbsp;🔍️I will be doing some work on Multi-Agents.
-- *2025.05*: &nbsp;🎉I participated in competitions related to artificial intelligence and information security.
-  
-# 🔨 Projects
-- *2024.12 – Present*  **Network Topology Simulation and Attack Efficacy Evaluation System** 
-  - Deployed local LLMs with prompt engineering to auto-generate network-topology code and documentation, then used CyberBattleSim and RL-driven LLM agents to simulate and evaluate attack strategies.
-
-- *2024.6 – 2024.12*  **Network Resource Data Recognition and Generation System**
-  - Led the collection and cleaning of 700K+ network-service records via FOFA/Shodan, fine-tuned BERT for asset identification, and built a ChatGLM-based RAG generator for automated metadata production.
-
-- *2024.3 – 2024.6*  **Domestic and International Public Opinion Analysis Platform**
-  - Co-developed a distributed crawler for global social-media scraping, plus face-recognition and image-style modules to enrich multimodal sentiment analysis.
-
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2025</div><img src='images/drik.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DRIK: Distribution-Robust Inductive Kriging without Information Leakage
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNPD, 2024</div><img src='images/dsg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,3 +66,17 @@ DSG:A Robustness-Enhanced Self-Supervised Depth Estimation Method
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🔥 News
+- *2025.06*: &nbsp;🔍️I will be doing some work on Multi-Agents.
+- *2025.05*: &nbsp;🎉I participated in competitions related to artificial intelligence and information security.
+  
+# 🔨 Projects
+- *2024.12 – Present*  **Network Topology Simulation and Attack Efficacy Evaluation System** 
+  - Deployed local LLMs with prompt engineering to auto-generate network-topology code and documentation, then used CyberBattleSim and RL-driven LLM agents to simulate and evaluate attack strategies.
+
+- *2024.6 – 2024.12*  **Network Resource Data Recognition and Generation System**
+  - Led the collection and cleaning of 700K+ network-service records via FOFA/Shodan, fine-tuned BERT for asset identification, and built a ChatGLM-based RAG generator for automated metadata production.
+
+- *2024.3 – 2024.6*  **Domestic and International Public Opinion Analysis Platform**
+  - Co-developed a distributed crawler for global social-media scraping, plus face-recognition and image-style modules to enrich multimodal sentiment analysis.
